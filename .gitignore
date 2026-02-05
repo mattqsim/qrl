@@ -8,7 +8,7 @@
 *.synctex.gz
 *.bbl
 *.blg
-
+tex/build
 # Compiled outputs
 tex/build/out/
 
