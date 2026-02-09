@@ -3,12 +3,19 @@
 *.log
 *.out
 *.toc
+*.lof
+*.lot
 *.fls
 *.fdb_latexmk
 *.synctex.gz
 *.bbl
 *.blg
+*.tex~
+*.swp
+*.swo
 tex/build
 # Compiled outputs
 tex/build/out/
+.DS_Store
+
 
